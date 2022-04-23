@@ -1,5 +1,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
+https://komarev.com/ghpvc/?username=b4ljk&color=blueviolet&style=flat
 <p align="center">
 <a href="https://github.com/b4ljk">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=b4ljk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
